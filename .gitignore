@@ -7,3 +7,4 @@ yolov8n.pt
 animations/
 .python-version
 annotated_images/
+points_by_date/
