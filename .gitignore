@@ -6,3 +6,4 @@ PKLotYoloData/
 yolov8n.pt
 animations/
 .python-version
+annotated_images/
