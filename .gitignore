@@ -1,10 +1,11 @@
-/aligned_images/
+/aligned_images/*/*.jpg
 archive.zip
 PKLotYoloData/
 .venv*
 .DS_Store
 yolov8n.pt
-animations/
+animations/*.mp4
+animations/*.gif
 .python-version
 annotated_images/
-points_by_date/
+points_by_date/*.png
