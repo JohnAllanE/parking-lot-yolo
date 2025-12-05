@@ -9,3 +9,4 @@ animations/*.gif
 .python-version
 annotated_images/
 points_by_date/*.png
+*.zip
