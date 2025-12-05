@@ -10,3 +10,4 @@ animations/*.gif
 annotated_images/
 points_by_date/*.png
 *.zip
+label_verification/*
